@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a36681d7.css",
+    "main.js": "/static/js/main.f95b1a39.js",
+    "static/media/bg_2.jpg": "/static/media/bg_2.b6f15d004449ea3799ff.jpg",
+    "static/media/bg_1.jpg": "/static/media/bg_1.90e7f6afa7b68bc2f5d3.jpg",
+    "static/media/image_1.jpg": "/static/media/image_1.76a98bc16a997351e195.jpg",
+    "static/media/gallery-2.jpg": "/static/media/gallery-2.3d787b6a8485012f8bae.jpg",
+    "static/media/about-3.jpg": "/static/media/about-3.de4c641b559861c404f6.jpg",
+    "static/media/pricing-1.jpg": "/static/media/pricing-1.e5d139905cb13866ccf7.jpg",
+    "static/media/about-2.jpg": "/static/media/about-2.fc779dd01f89cbbe8a18.jpg",
+    "static/media/image_3.jpg": "/static/media/image_3.1041d5db9767e44fc82b.jpg",
+    "static/media/gallery-6.jpg": "/static/media/gallery-6.6951aa476087ccbe69b4.jpg",
+    "static/media/bg_3.jpg": "/static/media/bg_3.43652ba4bc8cae8eea8f.jpg",
+    "static/media/pricing-2.jpg": "/static/media/pricing-2.aee9b311e09ca9478592.jpg",
+    "static/media/gallery-4.jpg": "/static/media/gallery-4.78ac72a182e759cfae39.jpg",
+    "static/media/about-1.jpg": "/static/media/about-1.77aa844517148ad92541.jpg",
+    "static/media/image_2.jpg": "/static/media/image_2.7e191e6b6cb6c1b2670e.jpg",
+    "static/media/about.jpg": "/static/media/about.8b774664d96421dc41b2.jpg",
+    "static/media/gallery-1.jpg": "/static/media/gallery-1.370720119ae944c8a246.jpg",
+    "static/media/gallery-5.jpg": "/static/media/gallery-5.e1ce07fdcb2bcde9211d.jpg",
+    "static/media/pricing-3.jpg": "/static/media/pricing-3.a69801187f6a9470fdf2.jpg",
+    "static/media/gallery-3.jpg": "/static/media/gallery-3.965edc0a40cf88c5a895.jpg",
+    "static/media/Flaticon.svg": "/static/media/Flaticon.27ec96306d4a80cdd87d.svg",
+    "static/media/person_1.jpg": "/static/media/person_1.3955ff879ea1569e2a70.jpg",
+    "static/media/Flaticon.eot": "/static/media/Flaticon.5e3a098e6a0faaeee9fd.eot",
+    "static/media/Flaticon.ttf": "/static/media/Flaticon.6374b958896b77a10647.ttf",
+    "static/media/Flaticon.woff": "/static/media/Flaticon.5f35639fff9c85e714e0.woff",
+    "index.html": "/index.html",
+    "main.a36681d7.css.map": "/static/css/main.a36681d7.css.map",
+    "main.f95b1a39.js.map": "/static/js/main.f95b1a39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a36681d7.css",
+    "static/js/main.f95b1a39.js"
+  ]
+}
